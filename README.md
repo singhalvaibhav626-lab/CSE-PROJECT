@@ -36,7 +36,7 @@ Ladder → Player climbs up
 Snake → Player slides down
 
 5.  When any player reaches exactly 100 then game will end.
-6.  <img width="973" height="1005" alt="image" src="https://github.com/user-attachments/assets/63f2aa79-5554-48e7-9bfa-ad186a410ddb" />
+  <img width="973" height="1005" alt="image" src="https://github.com/user-attachments/assets/63f2aa79-5554-48e7-9bfa-ad186a410ddb" />
 <img width="442" height="93" alt="image" src="https://github.com/user-attachments/assets/8dc89afd-6af3-461c-9641-e7486aed9532" />
 
 
